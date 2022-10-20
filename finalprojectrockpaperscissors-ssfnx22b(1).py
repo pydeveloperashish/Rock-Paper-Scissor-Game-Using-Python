@@ -180,6 +180,10 @@ def PlayGame():
     print("or you want to quit the game? (q)")
     print()
     choice = input("Please make your choice: ")
+    if choice == "q":
+            print()
+            print("---------GAME OVER!!!------------")
+            
     while choice in list_choices:
         if choice == 'r':
             choice = "rock"
