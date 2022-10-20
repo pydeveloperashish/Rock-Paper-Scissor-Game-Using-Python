@@ -48,3 +48,14 @@ This game is a simple Rock-Paper-Scissor Game built using Python
 
 ### Output Screenshots
 
+![Screenshot from 2022-10-20 13-26-54](https://user-images.githubusercontent.com/59412013/196890682-67858e96-fa14-4f07-9f8f-5b22c9c40098.png)
+![Screenshot from 2022-10-20 13-26-46](https://user-images.githubusercontent.com/59412013/196890705-d536ab8d-3984-43b2-ac46-fb8c54fa8bd1.png)
+
+![Screenshot from 2022-10-20 13-26-38](https://user-images.githubusercontent.com/59412013/196890750-aa14c22b-596d-4600-8173-1fc7f4376efd.png)
+![Screenshot from 2022-10-20 13-26-08](https://user-images.githubusercontent.com/59412013/196890786-767097dc-ccba-4e6d-83b7-f6f82a4c0818.png)
+
+![Screenshot from 2022-10-20 13-26-24](https://user-images.githubusercontent.com/59412013/196890763-766d9bf0-0288-4aa0-aa27-2093278d4309.png)
+
+
+
+
