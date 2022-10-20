@@ -158,7 +158,7 @@ def PrintGameRecord(GameRecord):
     
     pprint(f"The_number_of_rounds : {len(game_records.get('The_number_of_rounds'))}")
     pprint("computer_choices : " + str(game_records.get('computer_choice')))
-    pprint(f"human_choices : " + str(game_records.get('human_choice')))
+    pprint("human_choices : " + str(game_records.get('human_choice')))
     pprint(f"no_of_Draws : {len(game_records.get('no_of_Draws'))}")
     pprint(f"no_of_Humans_wins : {len(game_records.get('no_of_Humans_wins'))}")
     pprint(f"no_of_Computer_wins : {len(game_records.get('no_of_Computer_wins'))}")
